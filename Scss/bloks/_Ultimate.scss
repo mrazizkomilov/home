@@ -1,0 +1,50 @@
+.Ultimate{
+     
+      background-image: url(../img/Vector2222.png);
+      background-repeat: no-repeat;
+      background-position:right center;
+}
+.Ultimate__container{
+    width: 1170px;
+    margin: 0 auto;
+     display: flex;
+}
+.Ultimate__main{
+    width: 600px;
+}
+.Ultimate__list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.Ultimate__item {
+    width: 260px;
+    margin-left:20px;
+    margin-bottom: 80px;
+}
+
+.Ultimate-item__title {
+    color: #242f51;
+}
+.Ultimate h1 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    color:#242f51;
+    font-size: 46px;
+    line-height: 50px;
+}
+.Ultimate p {
+    line-height: 30px;
+    color: #616368;
+    font-family: Poppins;
+    font-style: normal;
+}
+.Ultimate__link{
+    margin-left: 40px;
+}
+.Ultimate___img{
+  margin-top: 200px;
+  margin-left: 100px;
+}

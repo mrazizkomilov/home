@@ -1,0 +1,52 @@
+.main__smart-jacpot{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.main__smart-jacpot h1{
+    font-family: Poppins;
+     font-weight: 500;
+     font-style: normal;
+    color: #242f51;
+    font-size: 50px;
+}
+.main__smart-jacpot p{
+    font-family: Poppins;
+    font-weight: normal;
+    font-style: normal;
+    color: #616368;
+}
+.smart-jacpot__item{
+    width: 300px;
+}
+.smart-jacpot__item p{
+    color:#616368;
+    font-family: Poppins;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 30px;
+}
+.smart-jacpot__group{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.smart-jacpot__group h2{
+    font-family: Poppins;
+    font-weight: bold;
+    font-style: normal;
+}
+.smart-jacpot-item-three__title{
+    color:#40975f;
+}
+.smart-jacpot-item-two__title {
+    color: #2563ff;
+}
+
+.smart-jacpot-item-fith__title {
+    color: #f55767;
+}

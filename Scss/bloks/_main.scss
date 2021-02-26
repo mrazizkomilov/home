@@ -1,0 +1,36 @@
+.main{
+    position: relative;
+    background-image: url(../img/circleredpng.png);
+    background-position: 40px -80px;
+    background-size: cover;
+    z-index: 1;
+}
+.main-text{
+    width: 522px;
+    margin-top: 190px;
+    position: absolute;
+    z-index: 2;
+}
+.main-text__box{
+    display: flex;
+    align-items: center;
+    background-color: #e2eaed;
+    width: 366px;
+    border-radius: 20px;
+      font-family: Poppins;
+}
+.main-text__box p{
+    margin: 0 5px;
+    
+}
+.main-text__title{
+    font-size: 60px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: normal;
+    color :#242f51;
+}
+.watch-link{
+   font-family: Poppins; 
+   margin-left: 20px;
+}

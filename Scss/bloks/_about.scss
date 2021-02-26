@@ -1,0 +1,32 @@
+.about{
+    margin-top: 150px;
+    text-align: center;
+    line-height: 30px;
+}
+.about h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    color:#242f51;
+    font-size: 46px;
+    line-height: 50px;
+}
+.about p{
+color:#616368;
+font-family: Poppins;
+font-style: normal;
+}
+.about__list{  
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;;
+    
+}
+.about__item{
+    width: 262px;
+    margin: 50px;
+}
+.about-item__title{
+    color:#242f51;
+}
